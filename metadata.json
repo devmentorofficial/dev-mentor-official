@@ -1,0 +1,6 @@
+{
+  "name": "devMentor",
+  "description": "A complete, modern, responsive virtual internship platform connecting students with flexible remote internships, mentorship, and practical learning experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
