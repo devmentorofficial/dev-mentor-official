@@ -132,8 +132,8 @@ export default function Contact() {
               </div>
               <div className="space-y-1">
                 <p className="text-xs font-bold text-neutral-warm-400 uppercase tracking-wider">Email Us</p>
-                <a href="mailto:hello@devmentor.edu" className="text-neutral-warm-800 font-bold hover:text-brand-600 transition-colors block text-base">
-                  hello@devmentor.edu
+                <a href="mailto: dev.mentor.official@gmail.com" className="text-neutral-warm-800 font-bold hover:text-brand-600 transition-colors block text-base">
+                  dev.mentor.official@gmail.com
                 </a>
                 <p className="text-xs text-neutral-warm-500">We typically reply within 12-24 business hours.</p>
               </div>

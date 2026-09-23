@@ -86,8 +86,8 @@ export default function Footer() {
                 <div className="w-8 h-8 rounded-lg bg-neutral-warm-800 flex items-center justify-center text-brand-500">
                   <Mail className="w-4 h-4" />
                 </div>
-                <a href="mailto:hello@devmentor.edu" className="text-neutral-warm-400 hover:text-white transition-colors text-sm break-all">
-                  hello@devmentor.edu
+                <a href="mailto:dev.mentor.official@gmail.com" className="text-neutral-warm-400 hover:text-white transition-colors text-sm break-all">
+                  dev.mentor.official@gmail.com 
                 </a>
               </li>
               <li className="flex items-center gap-3">
