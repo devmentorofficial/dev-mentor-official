@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 import { 
   Globe,  
   Clock, 
-  Award, 
+  Award,  
   Users, 
   ArrowRight, 
   Search, 
