@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import { motion } from "motion/react";
 import { 
-  Globe, 
+  Globe,  
   Clock, 
   Award, 
   Users, 
