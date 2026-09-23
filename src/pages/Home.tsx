@@ -163,7 +163,7 @@ export default function Home() {
             </div>
 
             <h1 className="font-display font-black text-4xl sm:text-6xl text-neutral-warm-900 tracking-tight leading-[1.08]">
-              Gain Real Experience. <br />
+              Gain Real Experience.<br />
               <span className="text-brand-500 relative inline-block">
                 Work From Anywhere.
               </span>
